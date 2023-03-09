@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently studying economics at UdeA.
+- 🚩 I'm also a GitHub Campus Student
+- 📫 I'm Data engineer and Data analyst.
+- 🌱 I’m currently learning more deep about Python, SQL, Java and GCP Services.
+- 👯 I would like to help to solve problems with innovative ideas in order to improve the people daily life.
+- 💬 Ask me about videogames, movies, anime, math and data programming and back-end...
+- ⚡ Fun fact: My favorite superhero is Deadpool, my favorite pokemon is Darkray and my favorite soccer team is Manchester United.
+
 <!--
 **TeusM224/TeusM224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
