@@ -1,6 +1,6 @@
 ### Hi everyone! 😄
 
-- 🔭 I’m currently studying  ***`Economics`*** at UdeA.
+- 🔭 I’m currently studying  ***`Economics`*** at ***`UdeA`*** .
 - 🚩 I'm also a  ***`Git Hub Campus Student`***
 - 📫  ***`I'm Data engineer and Data analyst`***.
 - 🌱 I’m currently learning more deep about  ***`Python, SQL, Java & GCP Services`***.
