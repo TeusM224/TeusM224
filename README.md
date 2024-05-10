@@ -4,9 +4,9 @@
 - 😄 I’m currently working on ***`Quind`***
 - 🚩 I'm also a  ***`Git Hub Campus Student`***
 - 📫  ***`I'm Data Engineer and back-End Developer`***.
-- 🌱 I’m currently learning more deep about  ***`Python, SQL, Java & GCP Services`***.
+- 🌱 I’m currently learning more deep about  ***`Python, SQL, Spark, Java & Google Cloud Platform`***.
 - 👯 I would like to help to solve problems with  ***`Creative ideas`*** in order to improve the  ***`People`*** daily life.
-- 💬 Ask me about videogames, movies, anime,  ***` Maths, Statistics & Programming`***.
+- 💬 Ask me about videogames, movies, anime,  ***` Economics Maths, Statistics & Programming Data`***.
 - ⚡ Fun fact: My favorite color is ***`Red`***, even the best superhero is ***`Dead Pool`*** and my favorite soccer team is ***`Liverpool`***.
 
 <!--
