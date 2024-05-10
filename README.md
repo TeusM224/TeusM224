@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning more deep about  ***`Python, SQL, Java & GCP Services`***.
 - 👯 I would like to help to solve problems with  ***`Creative ideas`*** in order to improve the  ***`People`*** daily life.
 - 💬 Ask me about videogames, movies, anime,  ***` Maths, Statistics & Programming`***.
-- ⚡ Fun fact: My favorite color is ***`Red`***, even the best superhero is ***`Dead Pool`*** and my favorite soccer team is ***`Manchester United`***.
+- ⚡ Fun fact: My favorite color is ***`Red`***, even the best superhero is ***`Dead Pool`*** and my favorite soccer team is ***`Liverpool`***.
 
 <!--
 **TeusM224/TeusM224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
