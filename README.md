@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently studying  ***`Economics`*** at ***`UdeA`*** .
 - 😄 I’m currently working on ***`Quind`***
-- 🚩 I'm also a  ***`Git Hub Campus Student`***
-- 📫  ***`I'm Data Engineer and back-End Developer`***.
+- 🚩 ***`I'm Data Engineer and back-End Developer`***.
 - 🌱 I’m currently learning more deep about  ***`Python, SQL, Spark, Java & Google Cloud Platform`***.
 - 👯 I would like to help to solve problems with  ***`Creative ideas`*** in order to improve the  ***`People`*** daily life.
 - 💬 Ask me about videogames, movies, anime,  ***`Economics Maths, Statistics & Programming Data`***.
