@@ -1,13 +1,14 @@
 ### Hi everyone! 😄
 
-- 🔭 I’m currently studying  ***`Economics`*** at ***`UdeA`*** .
-- 😄 I’m currently working on ***`Quind`***
-- 🚩 ***`I'm Data Engineer and back-End Developer`***.
-- 🌱 I’m currently learning more deep about  ***`Python, SQL, Spark, Java & Google Cloud Platform`***.
-- 👯 I would like to help to solve problems with  ***`Creative ideas`*** in order to improve the  ***`People`*** daily life.
-- 💬 Ask me about videogames, movies, anime,  ***`Economics Maths, Statistics & Programming Data`***.
-- ⚡ Fun fact: My favorite color is ***`Red`***, even the best superhero is ***`Dead Pool`*** and my favorite soccer team is ***`Liverpool`***.
-
+- 🚩 I'm a passionate  ***`Data Engineer`*** with over  ***`3 years of experience`***, currently working as a  ***`Technical Leader`*** at Quind.
+- 📚 ***`Economics`*** student at the University of Antioquia (UdeA), with a strong interest in combining economic theory and ***`data architecture`*** to build impactful solutions.
+- ☁️ ***`Cloud & Data Specialist in AWS`***, with hands-on expertise in: Glue, Athena, Redshift, Lambda, EMR, Step Functions, EventBridge, IAM, S3, and Terraform.
+- ⚙️ ***`Big Data & ETL Developer`*** working daily with ***`Apache Spark`***, ***`Delta Lake`***, ***`Python`***, ***`SQL`***, and ***`Data Lakehouse Architectures`***.
+- 🌱 Currently deepening knowledge in  ***`Google Cloud Platform, advanced Statistics for applied data science`***.
+- 🧠 I'm driven by ***`solving complex problems`*** through ***`creative thinking, automation, and scalable data pipelines`***.
+- 💬 Talk to me about videogames, movies, anime,  ***`Economics Maths, Statistics & Programming Data`***.
+- ⚡ Fun fact: My favorite color is ***`Red`***, even the best superhero is ***`Dead Pool`*** and my favorite soccer team is ***`Liverpool FC`*** ❤️⚽.
+  
 <!--
 **TeusM224/TeusM224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
